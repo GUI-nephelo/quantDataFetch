@@ -1,5 +1,6 @@
 #!/bin/bash
 
-cd /home/azureuser/quant/publicData
+script_dir=$(dirname "$(readlink -f "$0")")
+cd "$script_dir"
 
 python3 openInterest.py >> openInterest.log
