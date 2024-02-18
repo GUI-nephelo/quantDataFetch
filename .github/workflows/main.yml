@@ -33,6 +33,7 @@ jobs:
         run: |
           echo run
           bash publicData/main_1H.sh
+          bash marketData/main_1H.sh
       - name: commit
         run: |
           git pull
