@@ -11,7 +11,6 @@ def elasticInsert(sqlTable,cur,keys, data_iter):
         row = [str(i) for i in row]
         row[1] = f'"{row[1]}"'
         values = ','.join(row)
-        
         # print()
         try:
             cur.execute(f"insert into {sqlTable.name} ({','.join(keys)}) VALUES({values})")
@@ -40,9 +39,10 @@ def priceLimit(coin,l):
         result = publicDataAPI.get_price_limit(instId=instId)
         if result["code"]!="0":
             print(result)
-            exit(1)
+            exit(1000)
         data = result["data"][0]
         rl.append(data)
+        sleep(0.1)
     
     data = pd.DataFrame(rl)
     data = data[data["enabled"]][cols]
