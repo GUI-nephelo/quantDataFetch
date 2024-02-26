@@ -1,0 +1,2441 @@
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/trading-data/support-coin
+抓取contract主动买入/卖出情况 
+BTC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BTC&instType=CONTRACTS&period=1H
+720
+ETH
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ETH&instType=CONTRACTS&period=1H
+720
+MATIC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=MATIC&instType=CONTRACTS&period=1H
+720
+LTC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=LTC&instType=CONTRACTS&period=1H
+720
+XRP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=XRP&instType=CONTRACTS&period=1H
+720
+BCH
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BCH&instType=CONTRACTS&period=1H
+720
+SOL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SOL&instType=CONTRACTS&period=1H
+720
+PEPE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=PEPE&instType=CONTRACTS&period=1H
+720
+DOGE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=DOGE&instType=CONTRACTS&period=1H
+720
+FIL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=FIL&instType=CONTRACTS&period=1H
+720
+1INCH
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=1INCH&instType=CONTRACTS&period=1H
+720
+AAVE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=AAVE&instType=CONTRACTS&period=1H
+720
+ACE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ACE&instType=CONTRACTS&period=1H
+720
+ACH
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ACH&instType=CONTRACTS&period=1H
+720
+ADA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ADA&instType=CONTRACTS&period=1H
+720
+AGIX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=AGIX&instType=CONTRACTS&period=1H
+720
+AGLD
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=AGLD&instType=CONTRACTS&period=1H
+720
+AIDOGE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=AIDOGE&instType=CONTRACTS&period=1H
+720
+ALGO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ALGO&instType=CONTRACTS&period=1H
+720
+ALPHA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ALPHA&instType=CONTRACTS&period=1H
+720
+ANT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ANT&instType=CONTRACTS&period=1H
+720
+APE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=APE&instType=CONTRACTS&period=1H
+720
+API3
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=API3&instType=CONTRACTS&period=1H
+720
+APT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=APT&instType=CONTRACTS&period=1H
+720
+AR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=AR&instType=CONTRACTS&period=1H
+720
+ARB
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ARB&instType=CONTRACTS&period=1H
+720
+ATOM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ATOM&instType=CONTRACTS&period=1H
+720
+AUCTION
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=AUCTION&instType=CONTRACTS&period=1H
+720
+AVAX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=AVAX&instType=CONTRACTS&period=1H
+720
+AXS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=AXS&instType=CONTRACTS&period=1H
+720
+BADGER
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BADGER&instType=CONTRACTS&period=1H
+720
+BAL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BAL&instType=CONTRACTS&period=1H
+720
+BAND
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BAND&instType=CONTRACTS&period=1H
+720
+BAT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BAT&instType=CONTRACTS&period=1H
+720
+BICO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BICO&instType=CONTRACTS&period=1H
+720
+BIGTIME
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BIGTIME&instType=CONTRACTS&period=1H
+720
+BLUR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BLUR&instType=CONTRACTS&period=1H
+720
+BNB
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BNB&instType=CONTRACTS&period=1H
+720
+BNT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BNT&instType=CONTRACTS&period=1H
+720
+BONK
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BONK&instType=CONTRACTS&period=1H
+720
+BSV
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BSV&instType=CONTRACTS&period=1H
+720
+CEL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CEL&instType=CONTRACTS&period=1H
+720
+CELO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CELO&instType=CONTRACTS&period=1H
+720
+CETUS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CETUS&instType=CONTRACTS&period=1H
+720
+CFX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CFX&instType=CONTRACTS&period=1H
+720
+CHZ
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CHZ&instType=CONTRACTS&period=1H
+720
+COMP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=COMP&instType=CONTRACTS&period=1H
+720
+CORE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CORE&instType=CONTRACTS&period=1H
+720
+CRO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CRO&instType=CONTRACTS&period=1H
+720
+CRV
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CRV&instType=CONTRACTS&period=1H
+720
+CSPR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CSPR&instType=CONTRACTS&period=1H
+720
+CTC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CTC&instType=CONTRACTS&period=1H
+720
+CVC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CVC&instType=CONTRACTS&period=1H
+720
+DMAIL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=DMAIL&instType=CONTRACTS&period=1H
+720
+DOT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=DOT&instType=CONTRACTS&period=1H
+720
+DYDX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=DYDX&instType=CONTRACTS&period=1H
+720
+EGLD
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=EGLD&instType=CONTRACTS&period=1H
+720
+ENS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ENS&instType=CONTRACTS&period=1H
+720
+EOS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=EOS&instType=CONTRACTS&period=1H
+720
+ETC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ETC&instType=CONTRACTS&period=1H
+720
+ETHW
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ETHW&instType=CONTRACTS&period=1H
+720
+FET
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=FET&instType=CONTRACTS&period=1H
+720
+FITFI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=FITFI&instType=CONTRACTS&period=1H
+720
+FLM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=FLM&instType=CONTRACTS&period=1H
+720
+FLOKI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=FLOKI&instType=CONTRACTS&period=1H
+720
+FLOW
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=FLOW&instType=CONTRACTS&period=1H
+720
+FLR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=FLR&instType=CONTRACTS&period=1H
+720
+FRONT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=FRONT&instType=CONTRACTS&period=1H
+720
+FTM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=FTM&instType=CONTRACTS&period=1H
+720
+FXS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=FXS&instType=CONTRACTS&period=1H
+720
+GAL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=GAL&instType=CONTRACTS&period=1H
+720
+GALA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=GALA&instType=CONTRACTS&period=1H
+720
+GAS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=GAS&instType=CONTRACTS&period=1H
+720
+GFT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=GFT&instType=CONTRACTS&period=1H
+720
+GMT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=GMT&instType=CONTRACTS&period=1H
+720
+GMX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=GMX&instType=CONTRACTS&period=1H
+720
+GODS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=GODS&instType=CONTRACTS&period=1H
+720
+GRT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=GRT&instType=CONTRACTS&period=1H
+720
+HBAR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=HBAR&instType=CONTRACTS&period=1H
+720
+ICP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ICP&instType=CONTRACTS&period=1H
+720
+ICX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ICX&instType=CONTRACTS&period=1H
+720
+ID
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ID&instType=CONTRACTS&period=1H
+720
+IMX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=IMX&instType=CONTRACTS&period=1H
+720
+INJ
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=INJ&instType=CONTRACTS&period=1H
+720
+IOST
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=IOST&instType=CONTRACTS&period=1H
+720
+IOTA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=IOTA&instType=CONTRACTS&period=1H
+720
+JOE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=JOE&instType=CONTRACTS&period=1H
+720
+JST
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=JST&instType=CONTRACTS&period=1H
+720
+JTO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=JTO&instType=CONTRACTS&period=1H
+720
+JUP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=JUP&instType=CONTRACTS&period=1H
+720
+KISHU
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=KISHU&instType=CONTRACTS&period=1H
+720
+KLAY
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=KLAY&instType=CONTRACTS&period=1H
+720
+KNC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=KNC&instType=CONTRACTS&period=1H
+720
+KSM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=KSM&instType=CONTRACTS&period=1H
+720
+LDO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=LDO&instType=CONTRACTS&period=1H
+720
+LINK
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=LINK&instType=CONTRACTS&period=1H
+720
+LOOKS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=LOOKS&instType=CONTRACTS&period=1H
+720
+LPT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=LPT&instType=CONTRACTS&period=1H
+720
+LQTY
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=LQTY&instType=CONTRACTS&period=1H
+720
+LRC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=LRC&instType=CONTRACTS&period=1H
+720
+LSK
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=LSK&instType=CONTRACTS&period=1H
+720
+LUNA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=LUNA&instType=CONTRACTS&period=1H
+720
+LUNC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=LUNC&instType=CONTRACTS&period=1H
+720
+MAGIC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=MAGIC&instType=CONTRACTS&period=1H
+720
+MANA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=MANA&instType=CONTRACTS&period=1H
+720
+MASK
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=MASK&instType=CONTRACTS&period=1H
+720
+MEME
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=MEME&instType=CONTRACTS&period=1H
+720
+METIS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=METIS&instType=CONTRACTS&period=1H
+720
+MINA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=MINA&instType=CONTRACTS&period=1H
+720
+MKR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=MKR&instType=CONTRACTS&period=1H
+720
+MOVR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=MOVR&instType=CONTRACTS&period=1H
+720
+NEAR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=NEAR&instType=CONTRACTS&period=1H
+720
+NEO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=NEO&instType=CONTRACTS&period=1H
+720
+NFT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=NFT&instType=CONTRACTS&period=1H
+720
+NMR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=NMR&instType=CONTRACTS&period=1H
+720
+OM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=OM&instType=CONTRACTS&period=1H
+720
+OMG
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=OMG&instType=CONTRACTS&period=1H
+720
+ONE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ONE&instType=CONTRACTS&period=1H
+720
+ONT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ONT&instType=CONTRACTS&period=1H
+720
+OP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=OP&instType=CONTRACTS&period=1H
+720
+ORBS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ORBS&instType=CONTRACTS&period=1H
+720
+ORDI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ORDI&instType=CONTRACTS&period=1H
+720
+PEOPLE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=PEOPLE&instType=CONTRACTS&period=1H
+720
+PERP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=PERP&instType=CONTRACTS&period=1H
+720
+PYTH
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=PYTH&instType=CONTRACTS&period=1H
+720
+QTUM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=QTUM&instType=CONTRACTS&period=1H
+720
+RACA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=RACA&instType=CONTRACTS&period=1H
+720
+RDNT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=RDNT&instType=CONTRACTS&period=1H
+720
+REN
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=REN&instType=CONTRACTS&period=1H
+720
+RNDR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=RNDR&instType=CONTRACTS&period=1H
+720
+RON
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=RON&instType=CONTRACTS&period=1H
+720
+RSR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=RSR&instType=CONTRACTS&period=1H
+720
+RVN
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=RVN&instType=CONTRACTS&period=1H
+720
+SAND
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SAND&instType=CONTRACTS&period=1H
+720
+SATS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SATS&instType=CONTRACTS&period=1H
+720
+SHIB
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SHIB&instType=CONTRACTS&period=1H
+720
+SLP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SLP&instType=CONTRACTS&period=1H
+720
+SNX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SNX&instType=CONTRACTS&period=1H
+720
+SPELL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SPELL&instType=CONTRACTS&period=1H
+720
+SSV
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SSV&instType=CONTRACTS&period=1H
+720
+STARL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=STARL&instType=CONTRACTS&period=1H
+720
+STORJ
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=STORJ&instType=CONTRACTS&period=1H
+720
+STRK
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=STRK&instType=CONTRACTS&period=1H
+720
+STX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=STX&instType=CONTRACTS&period=1H
+720
+SUI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SUI&instType=CONTRACTS&period=1H
+720
+SUSHI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SUSHI&instType=CONTRACTS&period=1H
+720
+SWEAT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SWEAT&instType=CONTRACTS&period=1H
+720
+T
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=T&instType=CONTRACTS&period=1H
+720
+THETA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=THETA&instType=CONTRACTS&period=1H
+720
+TIA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=TIA&instType=CONTRACTS&period=1H
+720
+TON
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=TON&instType=CONTRACTS&period=1H
+720
+TRB
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=TRB&instType=CONTRACTS&period=1H
+720
+TRX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=TRX&instType=CONTRACTS&period=1H
+720
+TURBO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=TURBO&instType=CONTRACTS&period=1H
+720
+UMA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=UMA&instType=CONTRACTS&period=1H
+720
+UNI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=UNI&instType=CONTRACTS&period=1H
+720
+USDC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=USDC&instType=CONTRACTS&period=1H
+720
+USTC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=USTC&instType=CONTRACTS&period=1H
+720
+VRA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=VRA&instType=CONTRACTS&period=1H
+720
+WAXP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=WAXP&instType=CONTRACTS&period=1H
+720
+WLD
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=WLD&instType=CONTRACTS&period=1H
+720
+WOO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=WOO&instType=CONTRACTS&period=1H
+720
+XCH
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=XCH&instType=CONTRACTS&period=1H
+720
+XLM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=XLM&instType=CONTRACTS&period=1H
+720
+XTZ
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=XTZ&instType=CONTRACTS&period=1H
+720
+YFI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=YFI&instType=CONTRACTS&period=1H
+720
+YGG
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=YGG&instType=CONTRACTS&period=1H
+720
+ZETA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ZETA&instType=CONTRACTS&period=1H
+720
+ZIL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ZIL&instType=CONTRACTS&period=1H
+720
+ZRX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ZRX&instType=CONTRACTS&period=1H
+720
+抓取option主动买入/卖出情况 
+抓取spot主动买入/卖出情况 
+BTC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BTC&instType=SPOT&period=1H
+720
+ETH
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ETH&instType=SPOT&period=1H
+720
+OKB
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=OKB&instType=SPOT&period=1H
+720
+MATIC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=MATIC&instType=SPOT&period=1H
+720
+LTC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=LTC&instType=SPOT&period=1H
+720
+XRP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=XRP&instType=SPOT&period=1H
+720
+BCH
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BCH&instType=SPOT&period=1H
+720
+SOL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SOL&instType=SPOT&period=1H
+720
+PEPE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=PEPE&instType=SPOT&period=1H
+720
+DOGE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=DOGE&instType=SPOT&period=1H
+720
+FIL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=FIL&instType=SPOT&period=1H
+720
+1INCH
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=1INCH&instType=SPOT&period=1H
+720
+AAVE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=AAVE&instType=SPOT&period=1H
+720
+ACA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ACA&instType=SPOT&period=1H
+720
+ACE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ACE&instType=SPOT&period=1H
+720
+ACH
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ACH&instType=SPOT&period=1H
+720
+ADA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ADA&instType=SPOT&period=1H
+720
+AERGO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=AERGO&instType=SPOT&period=1H
+720
+AGIX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=AGIX&instType=SPOT&period=1H
+720
+AGLD
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=AGLD&instType=SPOT&period=1H
+720
+AIDOGE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=AIDOGE&instType=SPOT&period=1H
+720
+AKITA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=AKITA&instType=SPOT&period=1H
+720
+ALCX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ALCX&instType=SPOT&period=1H
+720
+ALGO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ALGO&instType=SPOT&period=1H
+720
+ALPHA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ALPHA&instType=SPOT&period=1H
+720
+ANT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ANT&instType=SPOT&period=1H
+720
+APE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=APE&instType=SPOT&period=1H
+720
+API3
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=API3&instType=SPOT&period=1H
+720
+APM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=APM&instType=SPOT&period=1H
+720
+APT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=APT&instType=SPOT&period=1H
+720
+AR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=AR&instType=SPOT&period=1H
+720
+ARB
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ARB&instType=SPOT&period=1H
+720
+ARG
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ARG&instType=SPOT&period=1H
+720
+ARTY
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ARTY&instType=SPOT&period=1H
+720
+AST
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=AST&instType=SPOT&period=1H
+720
+ASTR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ASTR&instType=SPOT&period=1H
+720
+ATOM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ATOM&instType=SPOT&period=1H
+720
+AUCTION
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=AUCTION&instType=SPOT&period=1H
+720
+AVAX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=AVAX&instType=SPOT&period=1H
+720
+AVIVE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=AVIVE&instType=SPOT&period=1H
+720
+AXS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=AXS&instType=SPOT&period=1H
+720
+AZY
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=AZY&instType=SPOT&period=1H
+720
+BABYDOGE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BABYDOGE&instType=SPOT&period=1H
+720
+BADGER
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BADGER&instType=SPOT&period=1H
+720
+BAL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BAL&instType=SPOT&period=1H
+720
+BAND
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BAND&instType=SPOT&period=1H
+720
+BAT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BAT&instType=SPOT&period=1H
+720
+BETH
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BETH&instType=SPOT&period=1H
+720
+BICO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BICO&instType=SPOT&period=1H
+720
+BIGTIME
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BIGTIME&instType=SPOT&period=1H
+720
+BLOK
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BLOK&instType=SPOT&period=1H
+720
+BLUR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BLUR&instType=SPOT&period=1H
+720
+BNB
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BNB&instType=SPOT&period=1H
+720
+BNT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BNT&instType=SPOT&period=1H
+720
+BONE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BONE&instType=SPOT&period=1H
+720
+BONK
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BONK&instType=SPOT&period=1H
+720
+BORA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BORA&instType=SPOT&period=1H
+720
+BORING
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BORING&instType=SPOT&period=1H
+720
+BRWL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BRWL&instType=SPOT&period=1H
+720
+BSV
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BSV&instType=SPOT&period=1H
+720
+BTT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BTT&instType=SPOT&period=1H
+720
+BZZ
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=BZZ&instType=SPOT&period=1H
+720
+CEEK
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CEEK&instType=SPOT&period=1H
+720
+CEL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CEL&instType=SPOT&period=1H
+720
+CELO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CELO&instType=SPOT&period=1H
+720
+CELR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CELR&instType=SPOT&period=1H
+720
+CETUS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CETUS&instType=SPOT&period=1H
+720
+CFG
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CFG&instType=SPOT&period=1H
+720
+CFX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CFX&instType=SPOT&period=1H
+720
+CGL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CGL&instType=SPOT&period=1H
+720
+CHZ
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CHZ&instType=SPOT&period=1H
+720
+CITY
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CITY&instType=SPOT&period=1H
+720
+CLV
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CLV&instType=SPOT&period=1H
+720
+COMP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=COMP&instType=SPOT&period=1H
+720
+CONV
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CONV&instType=SPOT&period=1H
+720
+CORE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CORE&instType=SPOT&period=1H
+720
+CQT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CQT&instType=SPOT&period=1H
+720
+CRO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CRO&instType=SPOT&period=1H
+720
+CRV
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CRV&instType=SPOT&period=1H
+720
+CSPR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CSPR&instType=SPOT&period=1H
+720
+CTC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CTC&instType=SPOT&period=1H
+720
+CTXC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CTXC&instType=SPOT&period=1H
+720
+CVC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CVC&instType=SPOT&period=1H
+720
+CVX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=CVX&instType=SPOT&period=1H
+720
+DAI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=DAI&instType=SPOT&period=1H
+720
+DAO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=DAO&instType=SPOT&period=1H
+720
+DCR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=DCR&instType=SPOT&period=1H
+720
+DEP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=DEP&instType=SPOT&period=1H
+720
+DGB
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=DGB&instType=SPOT&period=1H
+720
+DIA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=DIA&instType=SPOT&period=1H
+720
+DMAIL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=DMAIL&instType=SPOT&period=1H
+720
+DORA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=DORA&instType=SPOT&period=1H
+720
+DOSE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=DOSE&instType=SPOT&period=1H
+720
+DOT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=DOT&instType=SPOT&period=1H
+720
+DYDX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=DYDX&instType=SPOT&period=1H
+720
+EGLD
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=EGLD&instType=SPOT&period=1H
+720
+ELF
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ELF&instType=SPOT&period=1H
+720
+ELON
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ELON&instType=SPOT&period=1H
+720
+EM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=EM&instType=SPOT&period=1H
+720
+ENJ
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ENJ&instType=SPOT&period=1H
+720
+ENS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ENS&instType=SPOT&period=1H
+720
+EOS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=EOS&instType=SPOT&period=1H
+720
+ERN
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ERN&instType=SPOT&period=1H
+720
+ETC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ETC&instType=SPOT&period=1H
+720
+ETHW
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ETHW&instType=SPOT&period=1H
+720
+EURT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=EURT&instType=SPOT&period=1H
+720
+FET
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=FET&instType=SPOT&period=1H
+720
+FITFI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=FITFI&instType=SPOT&period=1H
+720
+FLM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=FLM&instType=SPOT&period=1H
+720
+FLOKI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=FLOKI&instType=SPOT&period=1H
+720
+FLOW
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=FLOW&instType=SPOT&period=1H
+720
+FLR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=FLR&instType=SPOT&period=1H
+720
+FORTH
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=FORTH&instType=SPOT&period=1H
+720
+FRONT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=FRONT&instType=SPOT&period=1H
+720
+FTM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=FTM&instType=SPOT&period=1H
+720
+FXS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=FXS&instType=SPOT&period=1H
+720
+GAL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=GAL&instType=SPOT&period=1H
+720
+GALA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=GALA&instType=SPOT&period=1H
+720
+GALFT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=GALFT&instType=SPOT&period=1H
+720
+GARI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=GARI&instType=SPOT&period=1H
+720
+GAS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=GAS&instType=SPOT&period=1H
+720
+GEAR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=GEAR&instType=SPOT&period=1H
+720
+GF
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=GF&instType=SPOT&period=1H
+720
+GFT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=GFT&instType=SPOT&period=1H
+720
+GHST
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=GHST&instType=SPOT&period=1H
+720
+GLM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=GLM&instType=SPOT&period=1H
+720
+GLMR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=GLMR&instType=SPOT&period=1H
+720
+GMT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=GMT&instType=SPOT&period=1H
+720
+GMX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=GMX&instType=SPOT&period=1H
+720
+GOAL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=GOAL&instType=SPOT&period=1H
+720
+GODS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=GODS&instType=SPOT&period=1H
+720
+GOG
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=GOG&instType=SPOT&period=1H
+720
+GRT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=GRT&instType=SPOT&period=1H
+720
+HBAR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=HBAR&instType=SPOT&period=1H
+720
+HC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=HC&instType=SPOT&period=1H
+720
+ICE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ICE&instType=SPOT&period=1H
+720
+ICP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ICP&instType=SPOT&period=1H
+720
+ICX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ICX&instType=SPOT&period=1H
+720
+ID
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ID&instType=SPOT&period=1H
+720
+IGU
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=IGU&instType=SPOT&period=1H
+720
+ILV
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ILV&instType=SPOT&period=1H
+720
+IMX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=IMX&instType=SPOT&period=1H
+720
+INJ
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=INJ&instType=SPOT&period=1H
+720
+IOST
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=IOST&instType=SPOT&period=1H
+720
+IOTA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=IOTA&instType=SPOT&period=1H
+720
+IQ
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=IQ&instType=SPOT&period=1H
+720
+JOE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=JOE&instType=SPOT&period=1H
+720
+JPG
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=JPG&instType=SPOT&period=1H
+720
+JST
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=JST&instType=SPOT&period=1H
+720
+JTO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=JTO&instType=SPOT&period=1H
+720
+JUP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=JUP&instType=SPOT&period=1H
+720
+KAN
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=KAN&instType=SPOT&period=1H
+720
+KAR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=KAR&instType=SPOT&period=1H
+720
+KCAL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=KCAL&instType=SPOT&period=1H
+720
+KDA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=KDA&instType=SPOT&period=1H
+720
+KINE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=KINE&instType=SPOT&period=1H
+720
+KISHU
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=KISHU&instType=SPOT&period=1H
+720
+KLAY
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=KLAY&instType=SPOT&period=1H
+720
+KNC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=KNC&instType=SPOT&period=1H
+720
+KP3R
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=KP3R&instType=SPOT&period=1H
+720
+KSM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=KSM&instType=SPOT&period=1H
+720
+LAMB
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=LAMB&instType=SPOT&period=1H
+720
+LAT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=LAT&instType=SPOT&period=1H
+720
+LBR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=LBR&instType=SPOT&period=1H
+720
+LDO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=LDO&instType=SPOT&period=1H
+720
+LEASH
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=LEASH&instType=SPOT&period=1H
+720
+LEO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=LEO&instType=SPOT&period=1H
+720
+LET
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=LET&instType=SPOT&period=1H
+720
+LHINU
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=LHINU&instType=SPOT&period=1H
+720
+LING
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=LING&instType=SPOT&period=1H
+720
+LINK
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=LINK&instType=SPOT&period=1H
+720
+LITH
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=LITH&instType=SPOT&period=1H
+720
+LON
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=LON&instType=SPOT&period=1H
+719
+LOOKS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=LOOKS&instType=SPOT&period=1H
+720
+LPT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=LPT&instType=SPOT&period=1H
+720
+LQTY
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=LQTY&instType=SPOT&period=1H
+720
+LRC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=LRC&instType=SPOT&period=1H
+720
+LSK
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=LSK&instType=SPOT&period=1H
+720
+LUNA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=LUNA&instType=SPOT&period=1H
+720
+LUNC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=LUNC&instType=SPOT&period=1H
+720
+MAGIC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=MAGIC&instType=SPOT&period=1H
+720
+MANA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=MANA&instType=SPOT&period=1H
+720
+MASK
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=MASK&instType=SPOT&period=1H
+720
+MDT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=MDT&instType=SPOT&period=1H
+720
+MEME
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=MEME&instType=SPOT&period=1H
+720
+MENGO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=MENGO&instType=SPOT&period=1H
+720
+METIS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=METIS&instType=SPOT&period=1H
+720
+MILO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=MILO&instType=SPOT&period=1H
+720
+MINA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=MINA&instType=SPOT&period=1H
+720
+MKR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=MKR&instType=SPOT&period=1H
+720
+MLN
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=MLN&instType=SPOT&period=1H
+720
+MOVEZ
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=MOVEZ&instType=SPOT&period=1H
+720
+MOVR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=MOVR&instType=SPOT&period=1H
+720
+MRST
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=MRST&instType=SPOT&period=1H
+720
+MXC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=MXC&instType=SPOT&period=1H
+720
+MYRIA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=MYRIA&instType=SPOT&period=1H
+720
+NEAR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=NEAR&instType=SPOT&period=1H
+720
+NEO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=NEO&instType=SPOT&period=1H
+720
+NFT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=NFT&instType=SPOT&period=1H
+720
+NMR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=NMR&instType=SPOT&period=1H
+720
+NULS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=NULS&instType=SPOT&period=1H
+720
+NYM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=NYM&instType=SPOT&period=1H
+720
+OAS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=OAS&instType=SPOT&period=1H
+720
+OKT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=OKT&instType=SPOT&period=1H
+720
+OM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=OM&instType=SPOT&period=1H
+720
+OMG
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=OMG&instType=SPOT&period=1H
+720
+OMI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=OMI&instType=SPOT&period=1H
+720
+OMN
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=OMN&instType=SPOT&period=1H
+720
+ONE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ONE&instType=SPOT&period=1H
+720
+ONT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ONT&instType=SPOT&period=1H
+720
+OP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=OP&instType=SPOT&period=1H
+720
+ORB
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ORB&instType=SPOT&period=1H
+720
+ORBS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ORBS&instType=SPOT&period=1H
+720
+ORDI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ORDI&instType=SPOT&period=1H
+720
+OXT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=OXT&instType=SPOT&period=1H
+720
+PCI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=PCI&instType=SPOT&period=1H
+719
+PEOPLE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=PEOPLE&instType=SPOT&period=1H
+720
+PERP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=PERP&instType=SPOT&period=1H
+720
+PHA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=PHA&instType=SPOT&period=1H
+720
+PIT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=PIT&instType=SPOT&period=1H
+720
+POLS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=POLS&instType=SPOT&period=1H
+720
+POLYDOGE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=POLYDOGE&instType=SPOT&period=1H
+720
+POR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=POR&instType=SPOT&period=1H
+720
+PRQ
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=PRQ&instType=SPOT&period=1H
+720
+PSTAKE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=PSTAKE&instType=SPOT&period=1H
+720
+PYTH
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=PYTH&instType=SPOT&period=1H
+720
+QTUM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=QTUM&instType=SPOT&period=1H
+720
+RACA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=RACA&instType=SPOT&period=1H
+720
+RADAR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=RADAR&instType=SPOT&period=1H
+720
+RAY
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=RAY&instType=SPOT&period=1H
+720
+RDNT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=RDNT&instType=SPOT&period=1H
+720
+REN
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=REN&instType=SPOT&period=1H
+720
+REP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=REP&instType=SPOT&period=1H
+720
+REVV
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=REVV&instType=SPOT&period=1H
+720
+RIO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=RIO&instType=SPOT&period=1H
+720
+RNDR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=RNDR&instType=SPOT&period=1H
+720
+RON
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=RON&instType=SPOT&period=1H
+720
+RPL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=RPL&instType=SPOT&period=1H
+720
+RSR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=RSR&instType=SPOT&period=1H
+720
+RSS3
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=RSS3&instType=SPOT&period=1H
+720
+RVN
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=RVN&instType=SPOT&period=1H
+720
+SAMO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SAMO&instType=SPOT&period=1H
+720
+SAND
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SAND&instType=SPOT&period=1H
+720
+SATS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SATS&instType=SPOT&period=1H
+720
+SC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SC&instType=SPOT&period=1H
+720
+SD
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SD&instType=SPOT&period=1H
+720
+SHIB
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SHIB&instType=SPOT&period=1H
+720
+SIS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SIS&instType=SPOT&period=1H
+720
+SKEB
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SKEB&instType=SPOT&period=1H
+720
+SKL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SKL&instType=SPOT&period=1H
+720
+SLN
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SLN&instType=SPOT&period=1H
+720
+SLP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SLP&instType=SPOT&period=1H
+720
+SNT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SNT&instType=SPOT&period=1H
+720
+SNX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SNX&instType=SPOT&period=1H
+720
+SPELL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SPELL&instType=SPOT&period=1H
+720
+SPURS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SPURS&instType=SPOT&period=1H
+720
+SSV
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SSV&instType=SPOT&period=1H
+720
+SSWP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SSWP&instType=SPOT&period=1H
+720
+STARL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=STARL&instType=SPOT&period=1H
+720
+STC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=STC&instType=SPOT&period=1H
+720
+STETH
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=STETH&instType=SPOT&period=1H
+720
+STORJ
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=STORJ&instType=SPOT&period=1H
+720
+STRK
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=STRK&instType=SPOT&period=1H
+720
+STX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=STX&instType=SPOT&period=1H
+720
+SUI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SUI&instType=SPOT&period=1H
+720
+SUN
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SUN&instType=SPOT&period=1H
+720
+SUSHI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SUSHI&instType=SPOT&period=1H
+720
+SWEAT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SWEAT&instType=SPOT&period=1H
+720
+SWFTC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=SWFTC&instType=SPOT&period=1H
+720
+T
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=T&instType=SPOT&period=1H
+720
+TAKI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=TAKI&instType=SPOT&period=1H
+720
+TAMA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=TAMA&instType=SPOT&period=1H
+720
+THETA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=THETA&instType=SPOT&period=1H
+720
+THG
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=THG&instType=SPOT&period=1H
+720
+TIA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=TIA&instType=SPOT&period=1H
+720
+TON
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=TON&instType=SPOT&period=1H
+720
+TRA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=TRA&instType=SPOT&period=1H
+720
+TRB
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=TRB&instType=SPOT&period=1H
+720
+TRX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=TRX&instType=SPOT&period=1H
+720
+TUP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=TUP&instType=SPOT&period=1H
+719
+TURBO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=TURBO&instType=SPOT&period=1H
+720
+UMA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=UMA&instType=SPOT&period=1H
+720
+UNI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=UNI&instType=SPOT&period=1H
+720
+USDC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=USDC&instType=SPOT&period=1H
+720
+USDT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=USDT&instType=SPOT&period=1H
+720
+USTC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=USTC&instType=SPOT&period=1H
+720
+UTK
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=UTK&instType=SPOT&period=1H
+720
+VELA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=VELA&instType=SPOT&period=1H
+720
+VELO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=VELO&instType=SPOT&period=1H
+720
+VELODROME
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=VELODROME&instType=SPOT&period=1H
+720
+VRA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=VRA&instType=SPOT&period=1H
+720
+VSYS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=VSYS&instType=SPOT&period=1H
+720
+WAXP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=WAXP&instType=SPOT&period=1H
+720
+WBTC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=WBTC&instType=SPOT&period=1H
+720
+WIFI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=WIFI&instType=SPOT&period=1H
+720
+WIN
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=WIN&instType=SPOT&period=1H
+720
+WLD
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=WLD&instType=SPOT&period=1H
+720
+WNCG
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=WNCG&instType=SPOT&period=1H
+720
+WOO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=WOO&instType=SPOT&period=1H
+720
+WSM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=WSM&instType=SPOT&period=1H
+720
+WXT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=WXT&instType=SPOT&period=1H
+720
+XAUT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=XAUT&instType=SPOT&period=1H
+720
+XCH
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=XCH&instType=SPOT&period=1H
+720
+XEC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=XEC&instType=SPOT&period=1H
+720
+XEM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=XEM&instType=SPOT&period=1H
+720
+XETA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=XETA&instType=SPOT&period=1H
+720
+XLM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=XLM&instType=SPOT&period=1H
+720
+XNO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=XNO&instType=SPOT&period=1H
+720
+XPR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=XPR&instType=SPOT&period=1H
+720
+XTZ
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=XTZ&instType=SPOT&period=1H
+720
+YFI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=YFI&instType=SPOT&period=1H
+720
+YFII
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=YFII&instType=SPOT&period=1H
+720
+YGG
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=YGG&instType=SPOT&period=1H
+720
+ZBC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ZBC&instType=SPOT&period=1H
+720
+ZETA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ZETA&instType=SPOT&period=1H
+720
+ZIL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ZIL&instType=SPOT&period=1H
+720
+ZRX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/taker-volume?ccy=ZRX&instType=SPOT&period=1H
+720
