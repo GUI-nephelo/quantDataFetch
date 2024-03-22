@@ -2398,3 +2398,6 @@ url: /api/v5/public/open-interest?instType=SWAP
 header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
 domain: https://www.okx.com
 url: /api/v5/public/open-interest?instType=SWAP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/public/open-interest?instType=SWAP
