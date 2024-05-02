@@ -16236,3 +16236,12 @@ url: /api/v5/public/instruments?instType=MARGIN
 header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
 domain: https://www.okx.com
 url: /api/v5/public/instruments?instType=SWAP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/public/instruments?instType=SPOT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/public/instruments?instType=MARGIN
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/public/instruments?instType=SWAP
