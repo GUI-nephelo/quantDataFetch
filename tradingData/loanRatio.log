@@ -9617,3 +9617,1632 @@ header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
 domain: https://www.okx.com
 url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ZRX&period=1H
 720
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/trading-data/support-coin
+获取借入计价货币与借入交易货币的累计数额比值
+BTC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=BTC&period=1H
+720
+ETH
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ETH&period=1H
+720
+OKB
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=OKB&period=1H
+720
+MATIC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=MATIC&period=1H
+720
+LTC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=LTC&period=1H
+720
+XRP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=XRP&period=1H
+720
+BCH
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=BCH&period=1H
+720
+SOL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=SOL&period=1H
+720
+PEPE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=PEPE&period=1H
+720
+DOGE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=DOGE&period=1H
+720
+FIL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=FIL&period=1H
+720
+1INCH
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=1INCH&period=1H
+720
+AAVE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=AAVE&period=1H
+720
+ACA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ACA&period=1H
+0
+ACE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ACE&period=1H
+720
+ACH
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ACH&period=1H
+720
+ADA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ADA&period=1H
+720
+AERGO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=AERGO&period=1H
+0
+AEVO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=AEVO&period=1H
+720
+AGIX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=AGIX&period=1H
+720
+AGLD
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=AGLD&period=1H
+720
+AIDOGE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=AIDOGE&period=1H
+720
+AKITA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=AKITA&period=1H
+0
+ALCX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ALCX&period=1H
+0
+ALGO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ALGO&period=1H
+720
+ALPHA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ALPHA&period=1H
+0
+ANT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ANT&period=1H
+639
+APE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=APE&period=1H
+720
+API3
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=API3&period=1H
+720
+APM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=APM&period=1H
+0
+APT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=APT&period=1H
+720
+AR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=AR&period=1H
+720
+ARB
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ARB&period=1H
+720
+ARG
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ARG&period=1H
+0
+ARTY
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ARTY&period=1H
+0
+AST
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=AST&period=1H
+0
+ASTR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ASTR&period=1H
+0
+ATOM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ATOM&period=1H
+720
+AUCTION
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=AUCTION&period=1H
+720
+AVAX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=AVAX&period=1H
+720
+AVIVE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=AVIVE&period=1H
+0
+AXS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=AXS&period=1H
+720
+AZY
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=AZY&period=1H
+0
+BABYDOGE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=BABYDOGE&period=1H
+0
+BADGER
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=BADGER&period=1H
+720
+BAL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=BAL&period=1H
+720
+BAND
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=BAND&period=1H
+720
+BAT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=BAT&period=1H
+720
+BETH
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=BETH&period=1H
+720
+BICO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=BICO&period=1H
+720
+BIGTIME
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=BIGTIME&period=1H
+720
+BLOCK
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=BLOCK&period=1H
+720
+BLOK
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=BLOK&period=1H
+0
+BLUR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=BLUR&period=1H
+720
+BNB
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=BNB&period=1H
+720
+BNT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=BNT&period=1H
+720
+BONE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=BONE&period=1H
+720
+BONK
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=BONK&period=1H
+720
+BORA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=BORA&period=1H
+0
+BORING
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=BORING&period=1H
+0
+BRWL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=BRWL&period=1H
+0
+BSV
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=BSV&period=1H
+720
+BTT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=BTT&period=1H
+0
+BZZ
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=BZZ&period=1H
+0
+CEEK
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=CEEK&period=1H
+0
+CEL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=CEL&period=1H
+720
+CELO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=CELO&period=1H
+720
+CELR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=CELR&period=1H
+720
+CETUS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=CETUS&period=1H
+720
+CFG
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=CFG&period=1H
+0
+CFX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=CFX&period=1H
+720
+CGL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=CGL&period=1H
+0
+CHZ
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=CHZ&period=1H
+720
+CITY
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=CITY&period=1H
+0
+CLV
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=CLV&period=1H
+0
+COMP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=COMP&period=1H
+720
+CONV
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=CONV&period=1H
+0
+CORE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=CORE&period=1H
+720
+CQT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=CQT&period=1H
+0
+CRO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=CRO&period=1H
+720
+CRV
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=CRV&period=1H
+720
+CSPR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=CSPR&period=1H
+720
+CTC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=CTC&period=1H
+720
+CTXC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=CTXC&period=1H
+0
+CVC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=CVC&period=1H
+720
+CVX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=CVX&period=1H
+0
+DAI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=DAI&period=1H
+0
+DAO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=DAO&period=1H
+0
+DCR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=DCR&period=1H
+0
+DEP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=DEP&period=1H
+0
+DGB
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=DGB&period=1H
+720
+DIA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=DIA&period=1H
+0
+DMAIL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=DMAIL&period=1H
+720
+DORA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=DORA&period=1H
+0
+DOSE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=DOSE&period=1H
+0
+DOT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=DOT&period=1H
+720
+DYDX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=DYDX&period=1H
+720
+EGLD
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=EGLD&period=1H
+720
+ELF
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ELF&period=1H
+720
+ELON
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ELON&period=1H
+0
+ENJ
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ENJ&period=1H
+720
+ENS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ENS&period=1H
+720
+EOS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=EOS&period=1H
+720
+ERN
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ERN&period=1H
+0
+ETC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ETC&period=1H
+720
+ETHFI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ETHFI&period=1H
+720
+ETHW
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ETHW&period=1H
+720
+EURT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=EURT&period=1H
+0
+FET
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=FET&period=1H
+720
+FITFI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=FITFI&period=1H
+720
+FLM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=FLM&period=1H
+720
+FLOKI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=FLOKI&period=1H
+720
+FLOW
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=FLOW&period=1H
+720
+FLR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=FLR&period=1H
+720
+FORTH
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=FORTH&period=1H
+0
+FOXY
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=FOXY&period=1H
+720
+FRONT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=FRONT&period=1H
+720
+FTM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=FTM&period=1H
+720
+FXS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=FXS&period=1H
+720
+GAL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=GAL&period=1H
+720
+GALA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=GALA&period=1H
+720
+GALFT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=GALFT&period=1H
+0
+GARI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=GARI&period=1H
+0
+GAS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=GAS&period=1H
+720
+GEAR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=GEAR&period=1H
+0
+GFT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=GFT&period=1H
+720
+GHST
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=GHST&period=1H
+0
+GLM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=GLM&period=1H
+720
+GLMR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=GLMR&period=1H
+720
+GMT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=GMT&period=1H
+720
+GMX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=GMX&period=1H
+720
+GOAL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=GOAL&period=1H
+0
+GODS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=GODS&period=1H
+720
+GOG
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=GOG&period=1H
+0
+GPT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=GPT&period=1H
+720
+GRT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=GRT&period=1H
+720
+HBAR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=HBAR&period=1H
+720
+ICE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ICE&period=1H
+0
+ICP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ICP&period=1H
+720
+ICX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ICX&period=1H
+720
+ID
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ID&period=1H
+720
+IGU
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=IGU&period=1H
+0
+ILV
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ILV&period=1H
+0
+IMX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=IMX&period=1H
+720
+INJ
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=INJ&period=1H
+720
+IOST
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=IOST&period=1H
+720
+IOTA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=IOTA&period=1H
+720
+IQ
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=IQ&period=1H
+0
+JOE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=JOE&period=1H
+720
+JPG
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=JPG&period=1H
+0
+JST
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=JST&period=1H
+720
+JTO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=JTO&period=1H
+720
+JUP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=JUP&period=1H
+720
+KAN
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=KAN&period=1H
+0
+KCAL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=KCAL&period=1H
+0
+KDA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=KDA&period=1H
+0
+KINE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=KINE&period=1H
+0
+KISHU
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=KISHU&period=1H
+720
+KLAY
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=KLAY&period=1H
+720
+KNC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=KNC&period=1H
+720
+KP3R
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=KP3R&period=1H
+0
+KSM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=KSM&period=1H
+720
+LAMB
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=LAMB&period=1H
+0
+LAT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=LAT&period=1H
+720
+LBR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=LBR&period=1H
+0
+LDO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=LDO&period=1H
+720
+LEASH
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=LEASH&period=1H
+0
+LEO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=LEO&period=1H
+0
+LHINU
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=LHINU&period=1H
+0
+LING
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=LING&period=1H
+0
+LINK
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=LINK&period=1H
+720
+LITH
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=LITH&period=1H
+0
+LON
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=LON&period=1H
+0
+LOOKS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=LOOKS&period=1H
+720
+LPT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=LPT&period=1H
+720
+LQTY
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=LQTY&period=1H
+720
+LRC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=LRC&period=1H
+720
+LSK
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=LSK&period=1H
+720
+LUNA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=LUNA&period=1H
+720
+LUNC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=LUNC&period=1H
+720
+MAGIC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=MAGIC&period=1H
+720
+MANA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=MANA&period=1H
+720
+MASK
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=MASK&period=1H
+720
+MDT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=MDT&period=1H
+0
+MEME
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=MEME&period=1H
+720
+MENGO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=MENGO&period=1H
+0
+MERL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=MERL&period=1H
+720
+METIS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=METIS&period=1H
+720
+MEW
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=MEW&period=1H
+720
+MILO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=MILO&period=1H
+0
+MINA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=MINA&period=1H
+720
+MKR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=MKR&period=1H
+720
+MLN
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=MLN&period=1H
+0
+MOVR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=MOVR&period=1H
+720
+MSN
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=MSN&period=1H
+720
+MXC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=MXC&period=1H
+0
+MYRIA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=MYRIA&period=1H
+0
+NEAR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=NEAR&period=1H
+720
+NEO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=NEO&period=1H
+720
+NFT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=NFT&period=1H
+720
+NMR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=NMR&period=1H
+720
+NOT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=NOT&period=1H
+720
+NULS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=NULS&period=1H
+0
+NYM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=NYM&period=1H
+0
+OAS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=OAS&period=1H
+0
+OKT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=OKT&period=1H
+0
+OM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=OM&period=1H
+720
+OMG
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=OMG&period=1H
+720
+OMI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=OMI&period=1H
+0
+OMN
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=OMN&period=1H
+0
+ONE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ONE&period=1H
+720
+ONT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ONT&period=1H
+720
+OP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=OP&period=1H
+720
+ORB
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ORB&period=1H
+0
+ORBS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ORBS&period=1H
+720
+ORDI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ORDI&period=1H
+720
+OXT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=OXT&period=1H
+0
+PCI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=PCI&period=1H
+0
+PEOPLE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=PEOPLE&period=1H
+720
+PERP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=PERP&period=1H
+720
+PHA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=PHA&period=1H
+0
+POLS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=POLS&period=1H
+0
+POLYDOGE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=POLYDOGE&period=1H
+0
+POR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=POR&period=1H
+0
+PRCL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=PRCL&period=1H
+720
+PRQ
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=PRQ&period=1H
+0
+PSTAKE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=PSTAKE&period=1H
+0
+PYTH
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=PYTH&period=1H
+720
+QTUM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=QTUM&period=1H
+720
+RACA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=RACA&period=1H
+720
+RADAR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=RADAR&period=1H
+0
+RAY
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=RAY&period=1H
+720
+RDNT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=RDNT&period=1H
+720
+REN
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=REN&period=1H
+720
+REP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=REP&period=1H
+0
+REVV
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=REVV&period=1H
+0
+RIO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=RIO&period=1H
+0
+RNDR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=RNDR&period=1H
+720
+RON
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=RON&period=1H
+720
+RPL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=RPL&period=1H
+0
+RSR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=RSR&period=1H
+720
+RSS3
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=RSS3&period=1H
+720
+RUNECOIN
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=RUNECOIN&period=1H
+0
+RVN
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=RVN&period=1H
+720
+SAFE
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=SAFE&period=1H
+0
+SAMO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=SAMO&period=1H
+0
+SAND
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=SAND&period=1H
+720
+SATS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=SATS&period=1H
+720
+SC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=SC&period=1H
+0
+SD
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=SD&period=1H
+0
+SHIB
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=SHIB&period=1H
+720
+SIS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=SIS&period=1H
+0
+SKL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=SKL&period=1H
+0
+SLN
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=SLN&period=1H
+0
+SLP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=SLP&period=1H
+720
+SNT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=SNT&period=1H
+0
+SNX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=SNX&period=1H
+720
+SPELL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=SPELL&period=1H
+720
+SPURS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=SPURS&period=1H
+0
+SSV
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=SSV&period=1H
+720
+SSWP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=SSWP&period=1H
+0
+STARL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=STARL&period=1H
+624
+STC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=STC&period=1H
+0
+STETH
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=STETH&period=1H
+720
+STORJ
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=STORJ&period=1H
+720
+STRK
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=STRK&period=1H
+720
+STX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=STX&period=1H
+720
+SUI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=SUI&period=1H
+720
+SUN
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=SUN&period=1H
+0
+SUSHI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=SUSHI&period=1H
+720
+SWEAT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=SWEAT&period=1H
+720
+SWFTC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=SWFTC&period=1H
+0
+T
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=T&period=1H
+720
+TAKI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=TAKI&period=1H
+0
+TAMA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=TAMA&period=1H
+0
+THETA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=THETA&period=1H
+720
+THG
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=THG&period=1H
+0
+TIA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=TIA&period=1H
+720
+TNSR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=TNSR&period=1H
+720
+TON
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=TON&period=1H
+720
+TRA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=TRA&period=1H
+0
+TRB
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=TRB&period=1H
+720
+TRX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=TRX&period=1H
+720
+TUP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=TUP&period=1H
+0
+TURBO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=TURBO&period=1H
+720
+UMA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=UMA&period=1H
+720
+UNI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=UNI&period=1H
+720
+USDC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=USDC&period=1H
+720
+USDT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=USDT&period=1H
+0
+USTC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=USTC&period=1H
+720
+UTK
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=UTK&period=1H
+0
+VELA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=VELA&period=1H
+0
+VELO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=VELO&period=1H
+720
+VELODROME
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=VELODROME&period=1H
+0
+VENOM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=VENOM&period=1H
+720
+VRA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=VRA&period=1H
+720
+W
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=W&period=1H
+720
+WAXP
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=WAXP&period=1H
+720
+WBTC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=WBTC&period=1H
+0
+WIF
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=WIF&period=1H
+720
+WIFI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=WIFI&period=1H
+0
+WIN
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=WIN&period=1H
+0
+WLD
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=WLD&period=1H
+720
+WNCG
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=WNCG&period=1H
+0
+WOO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=WOO&period=1H
+720
+WSM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=WSM&period=1H
+0
+WXT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=WXT&period=1H
+0
+XAUT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=XAUT&period=1H
+0
+XCH
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=XCH&period=1H
+720
+XEC
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=XEC&period=1H
+0
+XEM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=XEM&period=1H
+0
+XLM
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=XLM&period=1H
+720
+XNO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=XNO&period=1H
+0
+XPR
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=XPR&period=1H
+0
+XTZ
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=XTZ&period=1H
+720
+YFI
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=YFI&period=1H
+720
+YGG
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=YGG&period=1H
+720
+ZBCN
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ZBCN&period=1H
+0
+ZENT
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ZENT&period=1H
+720
+ZERO
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ZERO&period=1H
+720
+ZETA
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ZETA&period=1H
+720
+ZEUS
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ZEUS&period=1H
+720
+ZIL
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ZIL&period=1H
+720
+ZK
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ZK&period=1H
+720
+ZRX
+header:  {'Content-Type': 'application/json', 'x-simulated-trading': '0'}
+domain: https://www.okx.com
+url: /api/v5/rubik/stat/margin/loan-ratio?ccy=ZRX&period=1H
+720
